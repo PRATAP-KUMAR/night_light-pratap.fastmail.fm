@@ -1,0 +1,8 @@
+{
+  "name": "Run script when night light is activated/deactivated",
+  "description": "Run script when night light is activated/deactivated",
+  "uuid": "night_light@pratap.fastmail.fm",
+  "shell-version": [
+    "42"
+  ]
+}
